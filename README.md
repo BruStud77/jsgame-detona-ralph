@@ -1,4 +1,4 @@
-# Repositório do Jogo Detona Ralph
+# Repositório do Jogo Detona Ralph  ![favicon](https://github.com/user-attachments/assets/2fa64f34-4d6a-44d2-aa79-95c44d3ad4e0)
 
 
 **Bem-vindo ao repositório do jogo de fliperama mais épico de todos!**
