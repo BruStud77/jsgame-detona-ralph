@@ -14,4 +14,4 @@ Quer se juntar à diversão e contribuir para o desenvolvimento dos nossos jogos
 **Agradecimentos:**
 
 * Inspirado no filme da Disney Detona Ralph
-* Construído com amor e código por [Bruno Nico]
+* Construído com amor e código por [Bruno Nico](https://github.com/BruStud77)
